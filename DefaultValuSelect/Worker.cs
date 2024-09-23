@@ -13,11 +13,11 @@ namespace DefaultValuSelect
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            while (!stoppingToken.IsCancellationRequested)
+            if (!stoppingToken.IsCancellationRequested)
             {
                 _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
                 CreatePivotTable();
-                await Task.Delay(1000, stoppingToken);
+                _logger.LogInformation("File created EpPlusDefaultSelect.xlsx", DateTimeOffset.Now);
             }
         }
 

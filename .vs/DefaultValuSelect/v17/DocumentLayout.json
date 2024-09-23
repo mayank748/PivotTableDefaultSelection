@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BAC5376-CFA8-43EA-BC03-6A30C0F5D12E}|DefaultValuSelect\\DefaultValuSelect.csproj|c:\\users\\mayank.singh\\source\\repos\\pivottabledefaultselection\\defaultvaluselect\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BAC5376-CFA8-43EA-BC03-6A30C0F5D12E}|DefaultValuSelect\\DefaultValuSelect.csproj|solutionrelative:defaultvaluselect\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAC5376-CFA8-43EA-BC03-6A30C0F5D12E}|DefaultValuSelect\\DefaultValuSelect.csproj|c:\\users\\mayank.singh\\source\\repos\\pivottabledefaultselection\\defaultvaluselect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAC5376-CFA8-43EA-BC03-6A30C0F5D12E}|DefaultValuSelect\\DefaultValuSelect.csproj|solutionrelative:defaultvaluselect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +42,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayank.singh\\source\\repos\\PivotTableDefaultSelection\\DefaultValuSelect\\Program.cs",
+              "RelativeDocumentMoniker": "DefaultValuSelect\\Program.cs",
+              "ToolTip": "C:\\Users\\mayank.singh\\source\\repos\\PivotTableDefaultSelection\\DefaultValuSelect\\Program.cs",
+              "RelativeToolTip": "DefaultValuSelect\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:01:13.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\mayank.singh\\source\\repos\\PivotTableDefaultSelection\\DefaultValuSelect\\Worker.cs",
               "RelativeDocumentMoniker": "DefaultValuSelect\\Worker.cs",
               "ToolTip": "C:\\Users\\mayank.singh\\source\\repos\\PivotTableDefaultSelection\\DefaultValuSelect\\Worker.cs",
               "RelativeToolTip": "DefaultValuSelect\\Worker.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDsAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T06:46:17.558Z",
               "EditorCaption": ""
